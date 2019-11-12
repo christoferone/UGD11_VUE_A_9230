@@ -22,13 +22,18 @@ children: [
 
 {
 
-name: 'UserController',
-
-
+name: 'SparepartController',
 path: '',
+component: loadView('sparepartController')
 
-component: loadView('userController')
+},
 
+{
+
+name: 'SparepartController',
+path: '',
+component: loadView('sparepartController')
+    
 }
 
 ]

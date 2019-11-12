@@ -74,6 +74,7 @@
                 return{drawer:null,
                 items:[
                     {title:'UserController',icon:'mdi-human-male'},
+                    {title:'SparepartController',icon:'mdi-human-male'},
                     ],
                 }
             },
